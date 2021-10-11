@@ -1,0 +1,13 @@
+C:\Users\user52\source\repos\SupportedBeam\bin\Debug\SupportedBeam.dll
+C:\Users\user52\source\repos\SupportedBeam\bin\Debug\SupportedBeam.pdb
+C:\Users\user52\source\repos\SupportedBeam\ObjDir\2017\SupportedBeam\SupportedBeam.SupportedBeamForm.resources
+C:\Users\user52\source\repos\SupportedBeam\ObjDir\2017\SupportedBeam\SupportedBeam.csproj.GenerateResource.cache
+C:\Users\user52\source\repos\SupportedBeam\ObjDir\2017\SupportedBeam\SupportedBeam.csproj.CoreCompileInputs.cache
+C:\Users\user52\source\repos\SupportedBeam\ObjDir\2017\SupportedBeam\SupportedBeam.dll
+C:\Users\user52\source\repos\SupportedBeam\ObjDir\2017\SupportedBeam\SupportedBeam.pdb
+C:\Users\user52\source\repos\SupportedBeam\ObjDir\2017\SupportedBeam\SupportedBeam.csprojAssemblyReference.cache
+C:\Users\user52\source\repos\SupportedBeam\bin\Debug\ProEngineering.dll
+C:\Users\user52\source\repos\SupportedBeam\ObjDir\2017\SupportedBeam\SupportedBeam.Properties.Resources.resources
+C:\Users\user52\source\repos\SupportedBeam\ObjDir\2017\SupportedBeam\SupportedBeam.csproj.CopyComplete
+C:\Users\user52\source\repos\SupportedBeam\bin\Debug\BeamSupport.cs
+C:\Users\user52\source\repos\SupportedBeam\bin\Debug\Plug.cs
